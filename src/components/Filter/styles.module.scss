@@ -1,0 +1,85 @@
+.filterContainer{
+  padding: 3rem 4rem;
+  width: 26.5rem;
+  height: 100vh;
+
+  background-color: var(--primary);
+  color: var(--white);
+ 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+
+  .componentsTitle{
+    display: flex;
+    margin-bottom: 1rem;
+  }
+
+  .componentsSubtitle{
+    width: 100%;
+    text-align: end;
+  }
+
+  header{
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    font-size: 1.5rem;
+    gap: 1rem;
+
+    span{
+      margin-top: 1rem;
+    }
+  }
+
+  strong{
+    font-weight: 600; 
+  }
+
+  .filterBody{
+    align-self: stretch;
+    font-size: 1rem;
+
+    .component{
+      margin-top: 3rem;
+    }
+
+    .textField{
+      width: 100%;
+      background-color: #FFF;
+    }
+
+    .formControl{
+      display: flex !important;
+      margin-bottom: 2rem;
+      
+      .multiSelect{
+        display: flex !important;
+        flex: 1 !important;
+
+        &:before{
+          border-bottom: 1px solid var(--white) !important;
+          color: var(--white) !important;
+        }
+        &:after{
+          border-bottom: 1px solid var(--action)  !important;
+          color: var(--action) !important;
+        }
+        div{
+          flex: 1 !important;
+        }
+        path{
+          color: var(--action) !important;
+        }
+      }
+    }
+
+  }
+
+  footer{
+    align-self: stretch;  
+
+  }
+}
