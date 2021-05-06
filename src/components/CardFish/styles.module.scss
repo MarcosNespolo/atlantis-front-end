@@ -1,0 +1,21 @@
+.cardContainer{
+  .componentsTitle{
+    display: flex;
+    margin-left: 4px;
+    font-size: 1rem;
+    font-family: Quicksand, sans-serif;
+  }
+  .componentText{
+    background-color: var(--background);
+    display: flex;
+    width: 100%;
+    padding: 8px;
+    border-radius: 0.2rem;
+
+    font-family: Quicksand, sans-serif;
+    color: var(--text);
+    font-size: 1rem;
+    
+  }
+}
+  

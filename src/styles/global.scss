@@ -10,6 +10,8 @@
 
   --primary: #1D5080;
   --secundary: #5A93C8;
+  --text: #0c355c;
+  --background: #cfe1f3;
   --action: #1B6EBB;
 
   --gray-50: #F7F8FA;
@@ -35,7 +37,7 @@ body {
 }
 
 body, input, textarea, button {
-  font: 1rem Montserrat, sans-serif;
+  font-family: Quicksand, sans-serif;
   color: var(--gray-500);
 }
 

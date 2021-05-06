@@ -1,7 +1,8 @@
 .filterContainer{
   padding: 3rem 4rem;
-  width: 26.5rem;
+  width: 26rem;
   height: 100vh;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
 
   background-color: var(--primary);
   color: var(--white);
@@ -13,7 +14,9 @@
 
   .componentsTitle{
     display: flex;
-    margin-bottom: 1rem;
+    font-family: Quicksand, sans-serif;
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
   }
 
   .componentsSubtitle{
@@ -22,6 +25,7 @@
   }
 
   header{
+    font-family: Quicksand, sans-serif;
     display: flex;
     flex-direction: column;
 
@@ -36,19 +40,14 @@
 
   strong{
     font-weight: 600; 
-  }
+  } 
 
   .filterBody{
     align-self: stretch;
     font-size: 1rem;
 
     .component{
-      margin-top: 3rem;
-    }
-
-    .textField{
-      width: 100%;
-      background-color: #FFF;
+      margin-top: 2.5rem;
     }
 
     .formControl{

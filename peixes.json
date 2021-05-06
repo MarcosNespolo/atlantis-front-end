@@ -1,0 +1,1234 @@
+{
+  "peixes": [
+    {
+      "_id": "6090e0f057317a22b92b3071",
+      "nome": "Mills",
+      "especie": "Della",
+      "ordem": "Underwood",
+      "familia": "Murphy",
+      "genero": "Kirk",
+      "localOrigem": "Salas",
+      "cardumeMinimo": 20,
+      "posicaoAquario": "topo",
+      "reproducao": "Ipsum et officia officia in mollit anim culpa eu. Aliquip amet pariatur ullamco tempor culpa officia aute. Sit amet incididunt nostrud culpa sint sint consectetur incididunt irure aute voluptate aute velit.",
+      "dimorfismoSexual": "Tempor est fugiat dolore non. Incididunt nostrud commodo reprehenderit exercitation. Aliqua laborum duis dolor laborum dolor non excepteur est nisi. Aliqua tempor sunt aute sit do in id voluptate officia eiusmod. Velit cillum irure nisi consequat. Ipsum pariatur consequat qui pariatur sint proident consequat consectetur magna anim labore ad tempor. Id consequat id ad proident.",
+      "substratos": "areia",
+      "temperamentoEspecie": "amigavel",
+      "temperamentoOutros": "carnivoro",
+      "dieta": "Dolore sit qui culpa ex ex amet laborum sunt sit proident non ullamco. Dolore do do laboris cillum irure enim non deserunt consectetur cillum deserunt est id officia. Id reprehenderit cupidatat consequat dolore. Et ex veniam irure ex adipisicing velit aute. Ex duis reprehenderit labore eu veniam ipsum. Voluptate elit elit consequat pariatur culpa cupidatat enim elit adipisicing nisi excepteur laboris pariatur quis.",
+      "racao": "flocos",
+      "quantidadeAlimentacao": 5,
+      "tamanhoMedio": 4,
+      "larguraMinima": 429,
+      "alturaMinima": 27,
+      "volumePrimeiro": 22,
+      "volumeAdicional": 11,
+      "temperatura": {
+        "min": 14,
+        "max": 16
+      },
+      "ph": {
+        "min": 6,
+        "max": 10
+      },
+      "dgh": {
+        "min": 11,
+        "max": 22
+      },
+      "salinidade": {
+        "min": 15,
+        "max": 28
+      },
+      "observacao": "Excepteur tempor occaecat eu culpa excepteur incididunt nulla ea est sunt. Do tempor enim qui culpa dolore Lorem aliquip nostrud proident reprehenderit. Proident magna eu sint dolore Lorem ut consectetur eu anim est Lorem."
+    },
+    {
+      "_id": "6090e0f08375595aad79fb0e",
+      "nome": "Theresa",
+      "especie": "Michele",
+      "ordem": "Clarissa",
+      "familia": "Mcgee",
+      "genero": "Hunt",
+      "localOrigem": "Wilson",
+      "cardumeMinimo": 4,
+      "posicaoAquario": "topo",
+      "reproducao": "Amet excepteur aute incididunt aute ea occaecat cillum tempor anim dolor esse aute do. Ex dolor veniam sit Lorem aute do. Mollit irure mollit eiusmod enim enim amet aliquip proident minim culpa est. Ad ex anim minim culpa culpa irure veniam consequat commodo.",
+      "dimorfismoSexual": "Qui qui adipisicing culpa sint dolor esse ut. Sit minim ad incididunt tempor magna enim dolore deserunt veniam Lorem veniam nulla mollit cillum. Dolore et incididunt excepteur anim nostrud pariatur cupidatat adipisicing nisi reprehenderit commodo. Exercitation ipsum dolore deserunt amet aliqua nostrud qui. Esse nisi cillum in nostrud aliqua qui incididunt commodo mollit aliqua culpa ex veniam non. Id duis ex commodo officia et qui culpa veniam sit culpa cillum nostrud ut dolore. Mollit veniam non pariatur exercitation adipisicing sit Lorem cupidatat.",
+      "substratos": "areia",
+      "temperamentoEspecie": "carnivoro",
+      "temperamentoOutros": "territorialista",
+      "dieta": "Aliquip tempor officia tempor excepteur reprehenderit incididunt nostrud ex veniam. Ad officia enim irure ad incididunt culpa sit sunt nulla dolore nisi incididunt eiusmod mollit. Aute qui proident tempor laboris pariatur deserunt. Sunt ad labore consectetur quis ut dolore commodo sunt nulla non ad nostrud.",
+      "racao": "granulados",
+      "quantidadeAlimentacao": 1,
+      "tamanhoMedio": 20,
+      "larguraMinima": 167,
+      "alturaMinima": 18,
+      "volumePrimeiro": 25,
+      "volumeAdicional": 10,
+      "temperatura": {
+        "min": 13,
+        "max": 16
+      },
+      "ph": {
+        "min": 6,
+        "max": 7
+      },
+      "dgh": {
+        "min": 12,
+        "max": 16
+      },
+      "salinidade": {
+        "min": 1,
+        "max": 26
+      },
+      "observacao": "Cupidatat ullamco qui dolore commodo esse nisi esse ad. Exercitation consectetur cillum nulla non labore duis. Id sit nulla mollit ea fugiat occaecat consectetur occaecat duis culpa voluptate. Magna laborum magna eu minim esse qui. Occaecat tempor et irure elit exercitation amet ipsum sint magna consectetur. Fugiat cupidatat ullamco duis nulla sit consectetur laboris do enim veniam veniam magna nulla. Reprehenderit ut qui dolore proident."
+    },
+    {
+      "_id": "6090e0f0c989a60c1f14ca00",
+      "nome": "Tyler",
+      "especie": "Alejandra",
+      "ordem": "Thomas",
+      "familia": "Earline",
+      "genero": "Alana",
+      "localOrigem": "Stephenson",
+      "cardumeMinimo": 19,
+      "posicaoAquario": "topo",
+      "reproducao": "Proident aliquip laborum adipisicing nulla ipsum Lorem Lorem quis. Eiusmod proident laborum nisi anim qui velit labore ad sit. In cupidatat commodo dolore velit sunt.",
+      "dimorfismoSexual": "Cillum reprehenderit eu laborum reprehenderit incididunt esse mollit occaecat sunt proident aliqua. Aliqua qui eiusmod ad velit ipsum voluptate pariatur Lorem non reprehenderit occaecat. Velit elit velit non voluptate voluptate. Pariatur consectetur magna fugiat et fugiat sit consectetur ex Lorem fugiat qui. Eu deserunt ut eiusmod consequat culpa minim minim. Aute eiusmod nisi voluptate est ullamco quis elit cillum.",
+      "substratos": "cascalho",
+      "temperamentoEspecie": "carnivoro",
+      "temperamentoOutros": "carnivoro",
+      "dieta": "Dolor qui cillum ad ipsum aliqua dolor adipisicing. Mollit excepteur duis esse adipisicing id veniam duis esse irure do. Deserunt exercitation aute quis incididunt ipsum commodo.",
+      "racao": "flocos",
+      "quantidadeAlimentacao": 2,
+      "tamanhoMedio": 1,
+      "larguraMinima": 182,
+      "alturaMinima": 27,
+      "volumePrimeiro": 17,
+      "volumeAdicional": 11,
+      "temperatura": {
+        "min": 15,
+        "max": 19
+      },
+      "ph": {
+        "min": 5,
+        "max": 11
+      },
+      "dgh": {
+        "min": 14,
+        "max": 18
+      },
+      "salinidade": {
+        "min": 13,
+        "max": 19
+      },
+      "observacao": "Nostrud irure aliqua exercitation sit fugiat qui est occaecat. Quis labore et laborum nisi aute. Ut voluptate et adipisicing minim ex. Proident ea exercitation aliqua quis laborum deserunt."
+    },
+    {
+      "_id": "6090e0f0b388dfda0a683347",
+      "nome": "Martinez",
+      "especie": "Hodge",
+      "ordem": "Melendez",
+      "familia": "Holder",
+      "genero": "Delacruz",
+      "localOrigem": "Loraine",
+      "cardumeMinimo": 7,
+      "posicaoAquario": "fundo",
+      "reproducao": "Labore magna ea velit aliqua sunt nisi minim aute cupidatat. Consectetur velit eiusmod tempor Lorem occaecat deserunt enim ad aliqua. Voluptate consectetur magna minim duis ullamco officia magna esse eu. Aliqua anim ut ex in cupidatat aliquip non pariatur laborum deserunt sint commodo aute. Ea amet non laboris commodo deserunt aliqua et fugiat. Aute in occaecat esse et commodo culpa. Ad aute nisi est sit excepteur est officia duis dolore.",
+      "dimorfismoSexual": "Cillum incididunt nulla deserunt velit sunt nulla dolor et. Sunt reprehenderit velit culpa nisi ex qui elit proident reprehenderit non. Aliqua aliquip minim quis veniam sint qui do sit aliqua. Lorem officia qui quis culpa voluptate qui eiusmod irure veniam ullamco nostrud excepteur labore. Ad dolore sunt aliqua anim occaecat voluptate laborum voluptate. Aute mollit labore ad in Lorem sint cupidatat minim eiusmod minim in cillum non.",
+      "substratos": "cascalho",
+      "temperamentoEspecie": "carnivoro",
+      "temperamentoOutros": "territorialista",
+      "dieta": "Qui magna pariatur cillum et quis nostrud et. Do et reprehenderit excepteur sit. Dolore ullamco enim nostrud consequat in id cupidatat officia elit dolore occaecat. Laboris deserunt duis voluptate elit. Eu sunt et ut amet mollit aute ex ea aliquip qui consectetur elit Lorem ut.",
+      "racao": "paletes",
+      "quantidadeAlimentacao": 3,
+      "tamanhoMedio": 18,
+      "larguraMinima": 361,
+      "alturaMinima": 27,
+      "volumePrimeiro": 11,
+      "volumeAdicional": 7,
+      "temperatura": {
+        "min": 7,
+        "max": 21
+      },
+      "ph": {
+        "min": 4,
+        "max": 7
+      },
+      "dgh": {
+        "min": 1,
+        "max": 24
+      },
+      "salinidade": {
+        "min": 0,
+        "max": 32
+      },
+      "observacao": "Sint enim ex fugiat ut sunt voluptate do pariatur commodo veniam fugiat eu ad. Ullamco tempor ad commodo consequat dolore pariatur sint deserunt elit dolor qui amet nisi voluptate. Veniam qui irure et ipsum sunt laborum ex sit sunt. Ullamco ullamco est ea reprehenderit ad deserunt cupidatat occaecat pariatur aliquip excepteur laborum. Reprehenderit nostrud nulla ut magna velit quis exercitation proident. Qui fugiat incididunt duis adipisicing fugiat."
+    },
+    {
+      "_id": "6090e0f00962d65c1aa53fdb",
+      "nome": "Lorene",
+      "especie": "Dalton",
+      "ordem": "Mclean",
+      "familia": "Allen",
+      "genero": "Mavis",
+      "localOrigem": "Kendra",
+      "cardumeMinimo": 9,
+      "posicaoAquario": "topo",
+      "reproducao": "Adipisicing dolore Lorem Lorem ullamco velit quis consectetur tempor duis commodo. Nulla mollit amet est est. Aute ea sunt sit nulla sunt anim. Eu proident anim proident dolor laborum fugiat incididunt officia aute mollit.",
+      "dimorfismoSexual": "Cillum voluptate aliquip veniam commodo ea. Nostrud ad sit cillum in consequat. Dolor tempor ea culpa et. Cupidatat nulla excepteur nostrud id amet aliqua minim enim eu veniam officia velit. Pariatur fugiat veniam adipisicing qui enim voluptate velit non. Ut veniam qui dolor qui aliqua amet voluptate cupidatat est laboris cillum velit. Id irure dolore Lorem laboris do incididunt aliqua sunt voluptate ut minim cillum.",
+      "substratos": "cascalho",
+      "temperamentoEspecie": "carnivoro",
+      "temperamentoOutros": "carnivoro",
+      "dieta": "Nisi non quis quis cupidatat ut consequat id id nisi aliquip ea elit officia. Elit quis fugiat enim officia mollit incididunt occaecat eiusmod ipsum officia Lorem cupidatat. In dolor culpa incididunt qui nostrud enim ut Lorem officia nulla eu reprehenderit.",
+      "racao": "granulados",
+      "quantidadeAlimentacao": 5,
+      "tamanhoMedio": 21,
+      "larguraMinima": 411,
+      "alturaMinima": 27,
+      "volumePrimeiro": 23,
+      "volumeAdicional": 20,
+      "temperatura": {
+        "min": 15,
+        "max": 28
+      },
+      "ph": {
+        "min": 5,
+        "max": 8
+      },
+      "dgh": {
+        "min": 12,
+        "max": 18
+      },
+      "salinidade": {
+        "min": 8,
+        "max": 30
+      },
+      "observacao": "Voluptate adipisicing anim magna do mollit ex laboris officia ullamco reprehenderit qui Lorem. Commodo et nulla proident non aute sunt fugiat sint mollit Lorem. Ex amet deserunt pariatur dolor eu nisi nisi aute aliquip ex do aliquip. Reprehenderit veniam proident eu quis veniam pariatur occaecat culpa cupidatat ad incididunt laborum ex proident. Veniam commodo id enim ad mollit quis."
+    },
+    {
+      "_id": "6090e0f0526089015054f87a",
+      "nome": "Nancy",
+      "especie": "Francine",
+      "ordem": "Myrtle",
+      "familia": "Bryan",
+      "genero": "Strong",
+      "localOrigem": "Charity",
+      "cardumeMinimo": 19,
+      "posicaoAquario": "fundo",
+      "reproducao": "Deserunt adipisicing consequat veniam est pariatur nostrud voluptate amet. Laboris sint excepteur adipisicing cillum. Anim qui do minim elit cupidatat mollit aliquip aliquip. Voluptate magna ipsum magna enim commodo duis incididunt ipsum aliquip. Et quis in labore aute ex sint velit ad veniam esse commodo aliquip eu.",
+      "dimorfismoSexual": "Occaecat excepteur pariatur Lorem et mollit do ea sit ex dolor reprehenderit sunt Lorem officia. Consequat ea velit et velit. Et velit excepteur adipisicing et magna ullamco sit ullamco dolore sunt culpa. Tempor nostrud ex quis ad ad aute sit voluptate nulla aliquip nisi aliqua minim officia. In id ea aute do. Sunt mollit adipisicing ea ex laboris eiusmod in tempor. Anim amet laborum nisi occaecat reprehenderit.",
+      "substratos": "pedras",
+      "temperamentoEspecie": "carnivoro",
+      "temperamentoOutros": "territorialista",
+      "dieta": "Et est cupidatat duis fugiat. Non voluptate eu ipsum aute nostrud tempor. Tempor dolore ullamco adipisicing nostrud aute consequat non adipisicing nisi aute. Excepteur aliquip ipsum aliqua nulla sit. Cupidatat ad excepteur aliqua excepteur sint eu cillum.",
+      "racao": "granulados",
+      "quantidadeAlimentacao": 5,
+      "tamanhoMedio": 20,
+      "larguraMinima": 114,
+      "alturaMinima": 16,
+      "volumePrimeiro": 26,
+      "volumeAdicional": 11,
+      "temperatura": {
+        "min": 9,
+        "max": 22
+      },
+      "ph": {
+        "min": 1,
+        "max": 9
+      },
+      "dgh": {
+        "min": 1,
+        "max": 20
+      },
+      "salinidade": {
+        "min": 0,
+        "max": 29
+      },
+      "observacao": "Do ad est pariatur eu nostrud eu quis quis sint officia do. Sint magna commodo magna non. Ea voluptate dolor aliqua irure veniam deserunt mollit commodo voluptate quis ut ut cupidatat incididunt. Ipsum veniam elit ex consequat ad culpa. Quis ut eu in consectetur reprehenderit aliqua anim mollit."
+    },
+    {
+      "_id": "6090e0f0887a5484133dc001",
+      "nome": "Bird",
+      "especie": "Crane",
+      "ordem": "Nettie",
+      "familia": "Wright",
+      "genero": "Herminia",
+      "localOrigem": "Baldwin",
+      "cardumeMinimo": 8,
+      "posicaoAquario": "fundo",
+      "reproducao": "Velit nulla non velit mollit aute nisi magna nisi et ullamco excepteur. Enim ex id non nulla proident amet culpa laboris velit et. Duis ad et sint excepteur ut commodo. Ullamco enim proident ipsum Lorem. Consequat in nulla sit Lorem commodo sunt duis aliqua fugiat nisi. Amet id labore sint velit deserunt reprehenderit magna amet velit magna.",
+      "dimorfismoSexual": "Proident pariatur occaecat minim do ex cupidatat eiusmod aliquip. Voluptate ullamco nostrud sit sit cillum excepteur in sint non laboris minim excepteur. Fugiat laborum elit minim exercitation anim proident ex fugiat. Labore sit nisi laboris ex ex nisi amet laborum adipisicing consectetur qui ut.",
+      "substratos": "cascalho",
+      "temperamentoEspecie": "amigavel",
+      "temperamentoOutros": "amigavel",
+      "dieta": "Tempor nostrud fugiat in pariatur Lorem cupidatat labore officia ipsum eu mollit irure adipisicing non. Ullamco nisi esse amet laboris anim do eiusmod est labore. Nisi irure nisi ipsum occaecat. Fugiat dolore dolor id labore. Labore do anim do consequat. Cillum veniam dolor nulla amet duis labore cillum. Dolor proident et Lorem ipsum consequat consectetur proident.",
+      "racao": "paletes",
+      "quantidadeAlimentacao": 4,
+      "tamanhoMedio": 7,
+      "larguraMinima": 220,
+      "alturaMinima": 22,
+      "volumePrimeiro": 29,
+      "volumeAdicional": 6,
+      "temperatura": {
+        "min": 13,
+        "max": 27
+      },
+      "ph": {
+        "min": 1,
+        "max": 12
+      },
+      "dgh": {
+        "min": 10,
+        "max": 25
+      },
+      "salinidade": {
+        "min": 11,
+        "max": 30
+      },
+      "observacao": "Eu reprehenderit amet labore adipisicing commodo labore occaecat fugiat aute dolor laborum cupidatat. Amet anim nulla magna fugiat excepteur. Consectetur velit sit culpa enim mollit. Consequat esse minim velit excepteur mollit qui. Do cupidatat dolore laboris laboris id ipsum elit proident et mollit."
+    },
+    {
+      "_id": "6090e0f084368d0634477fcd",
+      "nome": "Mendoza",
+      "especie": "Rita",
+      "ordem": "Minnie",
+      "familia": "Trujillo",
+      "genero": "Vinson",
+      "localOrigem": "Holloway",
+      "cardumeMinimo": 6,
+      "posicaoAquario": "meio",
+      "reproducao": "Esse incididunt proident enim fugiat sit ut labore labore ex eu esse ullamco Lorem laboris. Id nostrud deserunt mollit nostrud fugiat aliquip esse et et. Proident esse officia laboris aliqua in.",
+      "dimorfismoSexual": "Velit tempor culpa sint ex sit velit. Laborum laborum pariatur aliqua exercitation duis sit irure cillum. Aute sit sint dolor eu amet excepteur. Ad ipsum culpa consequat ullamco id.",
+      "substratos": "cascalho",
+      "temperamentoEspecie": "amigavel",
+      "temperamentoOutros": "amigavel",
+      "dieta": "Deserunt consectetur nulla eu elit voluptate reprehenderit culpa ipsum quis excepteur duis quis. Ut labore occaecat reprehenderit labore commodo et irure. Eu sint ad ut sint fugiat irure.",
+      "racao": "flocos",
+      "quantidadeAlimentacao": 4,
+      "tamanhoMedio": 16,
+      "larguraMinima": 231,
+      "alturaMinima": 16,
+      "volumePrimeiro": 4,
+      "volumeAdicional": 13,
+      "temperatura": {
+        "min": 10,
+        "max": 16
+      },
+      "ph": {
+        "min": 7,
+        "max": 14
+      },
+      "dgh": {
+        "min": 2,
+        "max": 18
+      },
+      "salinidade": {
+        "min": 4,
+        "max": 24
+      },
+      "observacao": "Laborum aute ea non aute Lorem do dolore ipsum amet magna et. Est qui commodo consequat exercitation enim. Amet laborum enim dolore irure."
+    },
+    {
+      "_id": "6090e0f00e468239021d5596",
+      "nome": "Manuela",
+      "especie": "Harriet",
+      "ordem": "Melisa",
+      "familia": "Mccray",
+      "genero": "Cantrell",
+      "localOrigem": "Penny",
+      "cardumeMinimo": 8,
+      "posicaoAquario": "meio",
+      "reproducao": "Incididunt magna anim et laboris adipisicing nulla nisi culpa nulla anim ut incididunt dolor aliquip. Aliquip duis irure excepteur est veniam. Quis nulla sit consectetur ex labore et in do consectetur. Laboris est et et non qui. Proident proident quis amet veniam laboris qui officia fugiat reprehenderit tempor. Reprehenderit nostrud sunt minim nulla commodo duis excepteur Lorem aliquip ullamco ipsum.",
+      "dimorfismoSexual": "Tempor ex ad exercitation Lorem laboris nulla aliquip officia aute et aliqua. Ex ut dolor ad sunt veniam anim eiusmod do commodo labore. Amet in reprehenderit exercitation et cillum excepteur tempor nostrud tempor sunt proident occaecat.",
+      "substratos": "areia",
+      "temperamentoEspecie": "carnivoro",
+      "temperamentoOutros": "carnivoro",
+      "dieta": "Nisi Lorem esse consectetur ut ea et et incididunt consequat in cillum cupidatat. Ex sint aliqua eiusmod sunt veniam incididunt nulla. Excepteur veniam ipsum ut est ad deserunt. Nulla nostrud officia nulla consectetur anim aliquip ad veniam. Elit ullamco ad laborum cupidatat veniam dolore est deserunt eu ex labore. Consectetur dolor et culpa magna cupidatat ut anim do exercitation cillum esse duis. Nisi esse eiusmod labore incididunt ex nisi dolor.",
+      "racao": "paletes",
+      "quantidadeAlimentacao": 2,
+      "tamanhoMedio": 13,
+      "larguraMinima": 255,
+      "alturaMinima": 17,
+      "volumePrimeiro": 5,
+      "volumeAdicional": 5,
+      "temperatura": {
+        "min": 12,
+        "max": 30
+      },
+      "ph": {
+        "min": 5,
+        "max": 7
+      },
+      "dgh": {
+        "min": 10,
+        "max": 22
+      },
+      "salinidade": {
+        "min": 12,
+        "max": 22
+      },
+      "observacao": "Nostrud ipsum voluptate minim dolor Lorem non adipisicing enim ullamco elit aliquip magna ut. Enim ipsum ex aute nostrud cupidatat id ex consequat enim pariatur veniam. Adipisicing cupidatat irure ipsum elit commodo eiusmod consequat veniam ut sunt pariatur elit officia. Tempor cillum proident elit anim elit nostrud voluptate ut. Sint dolore magna nisi incididunt enim incididunt anim officia officia minim Lorem. Ad nisi sit ullamco magna ut laboris voluptate reprehenderit aute elit Lorem est nostrud irure."
+    },
+    {
+      "_id": "6090e0f055d026f3f569d594",
+      "nome": "Baker",
+      "especie": "Gould",
+      "ordem": "Harrington",
+      "familia": "Juliet",
+      "genero": "Barnes",
+      "localOrigem": "Wiley",
+      "cardumeMinimo": 19,
+      "posicaoAquario": "fundo",
+      "reproducao": "Anim cillum ex cillum duis deserunt duis laboris. Aute et qui nisi veniam excepteur veniam reprehenderit occaecat exercitation fugiat velit fugiat. Et ipsum enim fugiat sit labore proident aliquip do veniam incididunt dolore incididunt sit. Id adipisicing nisi voluptate dolore sit mollit duis enim Lorem sit dolore. Anim magna adipisicing labore veniam Lorem. Non reprehenderit qui occaecat esse voluptate cillum est.",
+      "dimorfismoSexual": "Ut mollit culpa elit nostrud proident deserunt exercitation sit ea ea labore culpa officia et. Esse cillum proident ea labore officia magna consequat. Veniam nostrud aliquip magna ipsum magna consectetur Lorem esse non. Officia enim occaecat laboris officia proident eiusmod enim enim exercitation. Tempor labore nostrud cupidatat amet aute incididunt ad nulla magna. Aliquip mollit amet do occaecat non cupidatat elit ad non mollit.",
+      "substratos": "cascalho",
+      "temperamentoEspecie": "territorialista",
+      "temperamentoOutros": "amigavel",
+      "dieta": "Exercitation nostrud in id nulla ut nostrud dolore elit labore ipsum ullamco cupidatat excepteur. Exercitation deserunt ipsum duis do sunt. Id ad ex minim velit irure elit nulla dolor cillum. Ex mollit anim consequat occaecat ad quis aliquip enim mollit ipsum velit voluptate nostrud. Sunt irure magna officia sit ex.",
+      "racao": "paletes",
+      "quantidadeAlimentacao": 5,
+      "tamanhoMedio": 21,
+      "larguraMinima": 173,
+      "alturaMinima": 24,
+      "volumePrimeiro": 16,
+      "volumeAdicional": 16,
+      "temperatura": {
+        "min": 12,
+        "max": 25
+      },
+      "ph": {
+        "min": 3,
+        "max": 11
+      },
+      "dgh": {
+        "min": 12,
+        "max": 18
+      },
+      "salinidade": {
+        "min": 4,
+        "max": 26
+      },
+      "observacao": "Quis eu nisi culpa velit nisi exercitation minim sint deserunt magna ea do laboris. Ex Lorem proident amet cupidatat dolore non ad. Est id pariatur ipsum cillum elit officia magna incididunt do aliquip mollit veniam."
+    },
+    {
+      "_id": "6090e0f026d3cffb79e548a4",
+      "nome": "Adrian",
+      "especie": "Karina",
+      "ordem": "Chelsea",
+      "familia": "Hall",
+      "genero": "Marquita",
+      "localOrigem": "Rachelle",
+      "cardumeMinimo": 15,
+      "posicaoAquario": "meio",
+      "reproducao": "Ipsum Lorem mollit esse ipsum Lorem tempor labore sit ipsum quis mollit nisi. Consectetur dolor magna in deserunt. Eiusmod reprehenderit eiusmod nostrud officia reprehenderit minim minim proident velit cupidatat. Et sit elit non elit anim commodo proident quis aliquip. Mollit officia minim eu in et quis adipisicing irure aliquip exercitation. Ea quis pariatur aliqua deserunt culpa nulla ut eu commodo deserunt aute excepteur.",
+      "dimorfismoSexual": "Mollit officia qui minim proident sit sit duis aliqua. Minim labore ad ad tempor consequat id id duis ipsum anim magna labore exercitation. Irure et aliquip dolor sunt consequat. Id Lorem labore exercitation ipsum non consequat id cupidatat esse laboris. Veniam cupidatat anim excepteur officia ullamco incididunt mollit ea proident ipsum ullamco. Est non velit qui deserunt. Id commodo aliquip minim in.",
+      "substratos": "cascalho",
+      "temperamentoEspecie": "amigavel",
+      "temperamentoOutros": "territorialista",
+      "dieta": "Est qui nisi ex nostrud mollit reprehenderit non ex deserunt sint nisi. In irure sunt irure eiusmod et dolor. Adipisicing enim magna est laborum in cillum deserunt eu enim deserunt anim ad ut tempor. Occaecat do sit magna sunt dolor amet do duis id. Exercitation labore magna ea laborum. Adipisicing irure culpa minim adipisicing exercitation Lorem id anim do mollit est.",
+      "racao": "flocos",
+      "quantidadeAlimentacao": 3,
+      "tamanhoMedio": 18,
+      "larguraMinima": 247,
+      "alturaMinima": 16,
+      "volumePrimeiro": 15,
+      "volumeAdicional": 16,
+      "temperatura": {
+        "min": 10,
+        "max": 29
+      },
+      "ph": {
+        "min": 5,
+        "max": 8
+      },
+      "dgh": {
+        "min": 2,
+        "max": 16
+      },
+      "salinidade": {
+        "min": 6,
+        "max": 36
+      },
+      "observacao": "In do elit labore incididunt do dolore qui sunt. Tempor fugiat esse officia et pariatur irure Lorem ad voluptate. Nostrud labore id quis duis. Ea proident sunt dolore veniam cupidatat in proident fugiat eiusmod occaecat consequat."
+    },
+    {
+      "_id": "6090e0f0e0dffd07d17eae73",
+      "nome": "Georgina",
+      "especie": "Ashley",
+      "ordem": "Leach",
+      "familia": "Stephens",
+      "genero": "Selena",
+      "localOrigem": "Pitts",
+      "cardumeMinimo": 20,
+      "posicaoAquario": "fundo",
+      "reproducao": "Laboris ad mollit in tempor ea sit esse sint Lorem. Commodo quis eu deserunt mollit nulla dolore laboris amet ex. In magna cillum sit esse adipisicing pariatur quis aliquip esse laboris. Voluptate aliqua officia officia dolore. Laboris qui culpa enim veniam magna est eiusmod commodo aliqua velit consequat. Cillum et laborum proident sint mollit mollit id Lorem.",
+      "dimorfismoSexual": "Ea tempor laborum enim ad aute minim in eu excepteur. Exercitation irure non occaecat pariatur sit laborum sint in. Ad ex ullamco commodo anim id incididunt elit enim. Proident eu eiusmod fugiat Lorem aliqua nostrud. Duis sint nostrud excepteur sunt aute. Occaecat consequat reprehenderit labore magna do. Aute exercitation reprehenderit nisi labore ullamco pariatur ipsum id amet sit duis reprehenderit sint enim.",
+      "substratos": "areia",
+      "temperamentoEspecie": "carnivoro",
+      "temperamentoOutros": "territorialista",
+      "dieta": "Ex in ex cillum et. Ipsum aute sit ipsum ad irure officia amet voluptate tempor. Do incididunt ad adipisicing officia minim voluptate veniam dolore laborum proident. Irure ipsum anim esse tempor nulla nisi proident do tempor deserunt. Fugiat deserunt excepteur occaecat non est est commodo Lorem fugiat ea commodo mollit enim ex. Adipisicing tempor officia duis fugiat laborum.",
+      "racao": "granulados",
+      "quantidadeAlimentacao": 4,
+      "tamanhoMedio": 2,
+      "larguraMinima": 99,
+      "alturaMinima": 18,
+      "volumePrimeiro": 5,
+      "volumeAdicional": 10,
+      "temperatura": {
+        "min": 5,
+        "max": 23
+      },
+      "ph": {
+        "min": 4,
+        "max": 9
+      },
+      "dgh": {
+        "min": 4,
+        "max": 17
+      },
+      "salinidade": {
+        "min": 2,
+        "max": 47
+      },
+      "observacao": "Fugiat eu est dolore eu ut id consequat sit deserunt irure adipisicing qui. Adipisicing ullamco anim aliqua commodo aute quis magna aute ex ipsum aliquip anim dolor sunt. Deserunt labore enim Lorem elit quis voluptate elit commodo commodo. Quis nulla excepteur velit Lorem fugiat minim consequat. Do deserunt velit magna nulla Lorem ipsum. Qui minim eiusmod irure ullamco incididunt velit enim proident cupidatat magna ad laborum. Aliquip sunt minim in nisi."
+    },
+    {
+      "_id": "6090e0f0ef23ac0ec23e1306",
+      "nome": "Marcie",
+      "especie": "Luz",
+      "ordem": "Mayra",
+      "familia": "Katy",
+      "genero": "Clare",
+      "localOrigem": "Greta",
+      "cardumeMinimo": 2,
+      "posicaoAquario": "meio",
+      "reproducao": "Tempor cupidatat ut non aute eiusmod laborum eu ut et. Ex fugiat sint sint occaecat sit ipsum voluptate cillum ex. Fugiat culpa adipisicing do laboris aliquip aliquip. Officia id ut sit aute incididunt cupidatat incididunt cupidatat laborum id et minim cupidatat ad. Laboris mollit tempor duis laboris. Ut do consequat do laborum proident nulla id elit cillum aliquip nisi.",
+      "dimorfismoSexual": "Culpa excepteur enim aute tempor incididunt. Sit voluptate esse velit officia sit reprehenderit. Laborum minim cillum elit nulla pariatur ea mollit incididunt ipsum dolore cillum aliqua. Aute Lorem exercitation veniam nostrud. Esse aliqua ut incididunt ut labore velit cupidatat. Ut sunt esse dolore velit Lorem deserunt sint eiusmod do magna mollit Lorem ipsum proident.",
+      "substratos": "pedras",
+      "temperamentoEspecie": "carnivoro",
+      "temperamentoOutros": "territorialista",
+      "dieta": "Eu irure ut enim consequat enim magna culpa et minim officia sint ad do. Eu ex id enim eu non ex mollit. Fugiat minim ipsum qui proident non.",
+      "racao": "flocos",
+      "quantidadeAlimentacao": 1,
+      "tamanhoMedio": 21,
+      "larguraMinima": 154,
+      "alturaMinima": 24,
+      "volumePrimeiro": 4,
+      "volumeAdicional": 8,
+      "temperatura": {
+        "min": 9,
+        "max": 27
+      },
+      "ph": {
+        "min": 5,
+        "max": 13
+      },
+      "dgh": {
+        "min": 6,
+        "max": 19
+      },
+      "salinidade": {
+        "min": 11,
+        "max": 41
+      },
+      "observacao": "Laboris culpa ea ex est esse mollit. Adipisicing incididunt duis enim deserunt ullamco culpa tempor amet pariatur duis eiusmod excepteur incididunt. Ullamco voluptate elit sint qui labore duis nisi excepteur excepteur aute qui adipisicing proident. Fugiat Lorem eiusmod veniam incididunt ea pariatur sit voluptate in."
+    },
+    {
+      "_id": "6090e0f075cd50c091e39208",
+      "nome": "Olive",
+      "especie": "Helena",
+      "ordem": "Marian",
+      "familia": "Gay",
+      "genero": "Parrish",
+      "localOrigem": "Lela",
+      "cardumeMinimo": 2,
+      "posicaoAquario": "topo",
+      "reproducao": "Exercitation sint laboris veniam aliquip duis adipisicing eiusmod. Fugiat Lorem consequat sit velit tempor et id dolore mollit cillum amet commodo nisi. Minim anim exercitation sit dolor. Officia ex anim occaecat ullamco tempor nulla do enim proident est ullamco.",
+      "dimorfismoSexual": "Tempor sit eiusmod sint ipsum do enim non incididunt sit. Eu tempor deserunt nulla velit. Sit pariatur incididunt voluptate consequat officia sit nulla esse do labore et.",
+      "substratos": "cascalho",
+      "temperamentoEspecie": "carnivoro",
+      "temperamentoOutros": "amigavel",
+      "dieta": "Magna aliqua ex non magna. Fugiat est quis excepteur excepteur eu laboris cupidatat dolor ut magna aliqua cupidatat laboris. Veniam irure exercitation enim consectetur eu. Esse veniam elit est quis proident minim.",
+      "racao": "paletes",
+      "quantidadeAlimentacao": 2,
+      "tamanhoMedio": 4,
+      "larguraMinima": 381,
+      "alturaMinima": 21,
+      "volumePrimeiro": 26,
+      "volumeAdicional": 11,
+      "temperatura": {
+        "min": 12,
+        "max": 25
+      },
+      "ph": {
+        "min": 5,
+        "max": 13
+      },
+      "dgh": {
+        "min": 0,
+        "max": 23
+      },
+      "salinidade": {
+        "min": 7,
+        "max": 29
+      },
+      "observacao": "Et non occaecat proident sint do excepteur labore ea in amet consequat nisi id sint. Incididunt amet laborum adipisicing elit officia anim pariatur Lorem. Exercitation exercitation id qui commodo. Ea voluptate nulla nostrud aute enim velit labore voluptate nisi commodo. Non consectetur esse veniam enim quis eiusmod officia aute eiusmod. Sit enim consequat qui quis irure officia anim consectetur. Ad irure enim ut cupidatat."
+    },
+    {
+      "_id": "6090e0f0dd6696b3635429ff",
+      "nome": "Fitzpatrick",
+      "especie": "Ballard",
+      "ordem": "Love",
+      "familia": "Randolph",
+      "genero": "Pansy",
+      "localOrigem": "Lupe",
+      "cardumeMinimo": 8,
+      "posicaoAquario": "meio",
+      "reproducao": "Sit duis veniam id eu fugiat aliqua. Sunt et laboris amet laboris aute minim ipsum cupidatat qui in culpa ullamco nulla. Ex sit sint velit velit do magna ullamco quis ea excepteur sit veniam. Dolor do quis non voluptate consectetur in Lorem. Nostrud qui aliqua sint reprehenderit laboris esse aliqua veniam nostrud sit. Pariatur culpa anim labore ex ex nisi aliqua Lorem laboris sint esse enim tempor nisi.",
+      "dimorfismoSexual": "Ut in proident reprehenderit non non ut est velit anim excepteur. Eiusmod cillum elit ex adipisicing irure officia ipsum tempor tempor dolore et excepteur dolore. Reprehenderit consectetur velit irure magna. Elit sit cupidatat laborum in veniam irure minim exercitation laborum nostrud. Sunt aliquip occaecat sint duis consectetur deserunt nisi occaecat aliqua aute adipisicing officia. Non velit aute ex laboris aliqua amet esse elit quis.",
+      "substratos": "areia",
+      "temperamentoEspecie": "amigavel",
+      "temperamentoOutros": "carnivoro",
+      "dieta": "Duis id cillum id non eiusmod ipsum. Ipsum voluptate amet in labore aliqua et pariatur Lorem enim aute. Amet proident magna adipisicing ad ut cupidatat qui esse est enim proident sit duis consectetur. Deserunt Lorem reprehenderit labore occaecat excepteur occaecat. Minim eu consectetur ullamco ipsum. Officia aliquip dolor eiusmod sit cillum fugiat adipisicing tempor elit pariatur pariatur.",
+      "racao": "flocos",
+      "quantidadeAlimentacao": 1,
+      "tamanhoMedio": 26,
+      "larguraMinima": 217,
+      "alturaMinima": 21,
+      "volumePrimeiro": 21,
+      "volumeAdicional": 18,
+      "temperatura": {
+        "min": 4,
+        "max": 29
+      },
+      "ph": {
+        "min": 4,
+        "max": 8
+      },
+      "dgh": {
+        "min": 14,
+        "max": 16
+      },
+      "salinidade": {
+        "min": 8,
+        "max": 49
+      },
+      "observacao": "Eu id elit aliqua amet. Fugiat dolor nulla occaecat occaecat ullamco sint magna minim et. Aliqua anim excepteur et dolor deserunt sint qui incididunt consequat consequat ad quis. Cillum pariatur ad consectetur veniam anim irure sint ex amet elit non. Officia amet cillum commodo aute magna amet veniam enim in elit pariatur velit pariatur consequat. Ipsum eiusmod eu labore reprehenderit ipsum. Veniam anim minim est laborum ullamco tempor."
+    },
+    {
+      "_id": "6090e0f0f35bed7db51532e9",
+      "nome": "Tonia",
+      "especie": "Chandra",
+      "ordem": "Flowers",
+      "familia": "Hayes",
+      "genero": "Opal",
+      "localOrigem": "Chaney",
+      "cardumeMinimo": 18,
+      "posicaoAquario": "topo",
+      "reproducao": "Esse do dolor sit nisi est pariatur ad velit pariatur consectetur ipsum non. Reprehenderit excepteur exercitation ex aliquip consequat. Tempor officia voluptate consequat commodo dolor est sint sit laboris ex duis. Excepteur magna velit sit sint cillum dolor nisi reprehenderit quis velit exercitation. Veniam esse cupidatat velit amet incididunt laborum voluptate in ut dolor qui voluptate tempor tempor. Id amet ut quis laborum dolor commodo nostrud amet. Mollit non duis minim elit labore duis eu irure officia velit aliquip eiusmod officia.",
+      "dimorfismoSexual": "Ullamco proident tempor velit nisi velit exercitation officia non consequat amet in. Ad est veniam tempor velit velit. Laborum consectetur sunt aliquip tempor reprehenderit id nulla nulla aliquip mollit eiusmod fugiat. Non veniam magna exercitation nisi non et ea magna occaecat adipisicing ullamco commodo. Aute exercitation aute sit deserunt ullamco. Minim qui nulla sint do enim consequat nulla.",
+      "substratos": "pedras",
+      "temperamentoEspecie": "amigavel",
+      "temperamentoOutros": "amigavel",
+      "dieta": "Excepteur elit incididunt adipisicing consectetur est. Commodo sit voluptate cillum ipsum tempor nisi minim occaecat consequat. Sint elit laboris incididunt do irure aliqua nisi Lorem. Deserunt tempor enim aliqua commodo esse ullamco velit ad deserunt sit sunt reprehenderit id ea. Sunt ea sit laborum Lorem.",
+      "racao": "paletes",
+      "quantidadeAlimentacao": 3,
+      "tamanhoMedio": 27,
+      "larguraMinima": 60,
+      "alturaMinima": 26,
+      "volumePrimeiro": 4,
+      "volumeAdicional": 11,
+      "temperatura": {
+        "min": 1,
+        "max": 30
+      },
+      "ph": {
+        "min": 6,
+        "max": 14
+      },
+      "dgh": {
+        "min": 3,
+        "max": 23
+      },
+      "salinidade": {
+        "min": 9,
+        "max": 46
+      },
+      "observacao": "Fugiat aliqua dolor ad sint nulla labore nisi. Excepteur Lorem consequat laborum dolore do esse veniam esse. Ad anim qui eiusmod tempor duis sint. Commodo dolor Lorem enim ut nostrud mollit exercitation officia."
+    },
+    {
+      "_id": "6090e0f0d7fe8a79e6e8be86",
+      "nome": "Bradford",
+      "especie": "Bailey",
+      "ordem": "Martha",
+      "familia": "Marie",
+      "genero": "Gwendolyn",
+      "localOrigem": "Armstrong",
+      "cardumeMinimo": 5,
+      "posicaoAquario": "topo",
+      "reproducao": "Excepteur eiusmod reprehenderit Lorem excepteur cupidatat aliquip est Lorem anim. Aute dolor fugiat mollit quis dolore dolor aliqua est et Lorem. Veniam laborum deserunt laboris ipsum eu consequat duis commodo eiusmod culpa. Aliqua sit Lorem sit culpa consequat ullamco exercitation irure pariatur aliquip amet labore irure et. Nulla dolor voluptate duis proident tempor reprehenderit mollit ullamco ullamco. Commodo minim dolore eiusmod dolor veniam esse irure.",
+      "dimorfismoSexual": "Ad velit sint nostrud nulla eu ad reprehenderit consequat est dolor cillum incididunt mollit velit. Do consectetur sunt labore est reprehenderit deserunt aliquip magna aute. Esse veniam qui occaecat velit. Velit consequat ullamco sint adipisicing. Ullamco nostrud incididunt sunt elit enim esse voluptate pariatur. Dolore velit aliquip id duis magna mollit elit sunt irure incididunt elit. Consequat qui aliqua cillum amet officia duis aliquip nulla eu qui commodo consectetur.",
+      "substratos": "pedras",
+      "temperamentoEspecie": "carnivoro",
+      "temperamentoOutros": "territorialista",
+      "dieta": "Occaecat deserunt consectetur dolor mollit Lorem deserunt ullamco pariatur pariatur adipisicing amet sint veniam. Proident nulla sit fugiat non enim. Reprehenderit enim esse nulla minim eiusmod non fugiat esse adipisicing Lorem cupidatat quis est. Commodo et mollit nostrud occaecat eiusmod nisi ut. Culpa ex deserunt ad et fugiat pariatur. Enim reprehenderit irure labore non magna non sunt est nulla in minim aliqua. Sint irure cupidatat nisi ad aute.",
+      "racao": "granulados",
+      "quantidadeAlimentacao": 1,
+      "tamanhoMedio": 6,
+      "larguraMinima": 273,
+      "alturaMinima": 24,
+      "volumePrimeiro": 18,
+      "volumeAdicional": 3,
+      "temperatura": {
+        "min": 5,
+        "max": 26
+      },
+      "ph": {
+        "min": 1,
+        "max": 8
+      },
+      "dgh": {
+        "min": 14,
+        "max": 16
+      },
+      "salinidade": {
+        "min": 9,
+        "max": 50
+      },
+      "observacao": "Tempor cillum enim aliqua et proident duis veniam irure exercitation elit. Consequat incididunt est amet tempor et nostrud. Eu nisi proident ex magna fugiat sit fugiat est irure minim. Ex sit duis excepteur pariatur. Mollit ex dolor culpa aliqua quis sint commodo. Culpa laboris dolore anim duis tempor do excepteur do elit cupidatat veniam fugiat ut. Pariatur sint ipsum Lorem nisi."
+    },
+    {
+      "_id": "6090e0f02978a00034d9ab28",
+      "nome": "Misty",
+      "especie": "Ward",
+      "ordem": "Deidre",
+      "familia": "James",
+      "genero": "Margaret",
+      "localOrigem": "Landry",
+      "cardumeMinimo": 14,
+      "posicaoAquario": "fundo",
+      "reproducao": "Veniam elit amet enim commodo proident. Laboris exercitation culpa eu enim. Irure amet duis nostrud et occaecat anim non sit. Id reprehenderit adipisicing minim officia qui. Ad amet enim sunt incididunt Lorem elit adipisicing eiusmod commodo ea Lorem proident.",
+      "dimorfismoSexual": "Eiusmod reprehenderit aliquip consequat cupidatat. Consectetur laborum adipisicing Lorem aliquip non est nisi anim esse ad amet nostrud eiusmod. Elit eiusmod Lorem commodo mollit magna culpa Lorem.",
+      "substratos": "pedras",
+      "temperamentoEspecie": "amigavel",
+      "temperamentoOutros": "amigavel",
+      "dieta": "Qui ad anim irure est aute laborum. Sunt adipisicing labore deserunt eiusmod. Laborum do deserunt ad eiusmod eiusmod sit culpa laborum ullamco reprehenderit excepteur proident.",
+      "racao": "granulados",
+      "quantidadeAlimentacao": 3,
+      "tamanhoMedio": 7,
+      "larguraMinima": 115,
+      "alturaMinima": 29,
+      "volumePrimeiro": 4,
+      "volumeAdicional": 14,
+      "temperatura": {
+        "min": 5,
+        "max": 26
+      },
+      "ph": {
+        "min": 4,
+        "max": 12
+      },
+      "dgh": {
+        "min": 9,
+        "max": 18
+      },
+      "salinidade": {
+        "min": 24,
+        "max": 36
+      },
+      "observacao": "Ut excepteur anim incididunt id est. Laboris ullamco ex ipsum dolor consectetur. Occaecat id veniam qui dolore veniam deserunt dolor dolor pariatur laborum. Laborum laborum fugiat commodo qui labore aliqua dolor consectetur officia officia. Anim incididunt et deserunt pariatur nulla ex dolor non nisi consequat in quis. Enim consequat labore sint pariatur et irure."
+    },
+    {
+      "_id": "6090e0f021c990f35eb6e966",
+      "nome": "Gallegos",
+      "especie": "Nicole",
+      "ordem": "Andrea",
+      "familia": "Kinney",
+      "genero": "Maria",
+      "localOrigem": "Puckett",
+      "cardumeMinimo": 10,
+      "posicaoAquario": "topo",
+      "reproducao": "Incididunt ea minim culpa commodo quis eu anim amet labore adipisicing consequat aliquip qui. Lorem esse deserunt laborum Lorem laboris ipsum sit Lorem mollit. Nostrud veniam minim amet nostrud sunt non eiusmod aliqua consequat anim sit. Laborum ex id ex magna occaecat pariatur cupidatat proident anim nisi labore. Anim laborum laboris commodo commodo ad adipisicing ex exercitation reprehenderit do qui.",
+      "dimorfismoSexual": "Lorem consectetur officia fugiat exercitation mollit. Pariatur adipisicing id nostrud ullamco laborum. Tempor excepteur qui minim nisi ad sunt officia fugiat. Et consequat nulla et proident nisi consequat. Aliqua dolor minim culpa do. Cupidatat pariatur dolore irure qui consectetur proident exercitation. Id ad nostrud deserunt aliqua amet tempor.",
+      "substratos": "cascalho",
+      "temperamentoEspecie": "amigavel",
+      "temperamentoOutros": "amigavel",
+      "dieta": "Ut sunt consequat ipsum non do qui velit fugiat anim cupidatat mollit. Mollit proident fugiat laborum exercitation duis esse. Pariatur sint officia nostrud qui non enim veniam enim ad.",
+      "racao": "flocos",
+      "quantidadeAlimentacao": 2,
+      "tamanhoMedio": 25,
+      "larguraMinima": 190,
+      "alturaMinima": 22,
+      "volumePrimeiro": 19,
+      "volumeAdicional": 10,
+      "temperatura": {
+        "min": 0,
+        "max": 16
+      },
+      "ph": {
+        "min": 2,
+        "max": 14
+      },
+      "dgh": {
+        "min": 4,
+        "max": 24
+      },
+      "salinidade": {
+        "min": 18,
+        "max": 39
+      },
+      "observacao": "Pariatur ullamco aute commodo aliqua reprehenderit do sit mollit aliquip enim est Lorem fugiat mollit. Elit minim eu non elit laboris aliquip ea pariatur. Et exercitation culpa pariatur occaecat cillum reprehenderit cupidatat est tempor fugiat. Ipsum ipsum amet minim commodo irure non velit sunt nostrud commodo sint. In sit adipisicing elit magna est enim laborum aliquip. Magna mollit excepteur enim tempor proident adipisicing aliquip esse minim sunt mollit mollit officia."
+    },
+    {
+      "_id": "6090e0f0e2acc6c8da77ae2a",
+      "nome": "Robin",
+      "especie": "Decker",
+      "ordem": "Roxanne",
+      "familia": "Dorothea",
+      "genero": "Preston",
+      "localOrigem": "Fern",
+      "cardumeMinimo": 3,
+      "posicaoAquario": "fundo",
+      "reproducao": "Ea duis veniam quis in laborum enim sunt non magna magna aute aliqua Lorem et. Ad fugiat amet sit qui tempor cillum consectetur. Labore aliqua Lorem aliqua ipsum deserunt dolor consequat.",
+      "dimorfismoSexual": "Nostrud culpa laborum eu sit ut minim deserunt est sit in esse. Et cillum aliquip cillum voluptate nisi magna eu laboris consectetur incididunt. Tempor dolor non ad nulla sit est adipisicing deserunt. Ipsum velit aute nostrud eu ullamco commodo consectetur.",
+      "substratos": "areia",
+      "temperamentoEspecie": "carnivoro",
+      "temperamentoOutros": "carnivoro",
+      "dieta": "Sint irure adipisicing ex nostrud laboris proident velit nostrud proident. Enim sunt laborum sunt nisi proident exercitation amet culpa id voluptate culpa eiusmod ad eu. Commodo sunt culpa est consectetur mollit commodo.",
+      "racao": "flocos",
+      "quantidadeAlimentacao": 3,
+      "tamanhoMedio": 28,
+      "larguraMinima": 454,
+      "alturaMinima": 24,
+      "volumePrimeiro": 4,
+      "volumeAdicional": 9,
+      "temperatura": {
+        "min": 12,
+        "max": 23
+      },
+      "ph": {
+        "min": 6,
+        "max": 11
+      },
+      "dgh": {
+        "min": 3,
+        "max": 24
+      },
+      "salinidade": {
+        "min": 2,
+        "max": 47
+      },
+      "observacao": "In mollit aliqua do laborum irure tempor irure velit labore sunt culpa quis adipisicing. Mollit deserunt sunt amet veniam qui pariatur eiusmod magna. Excepteur ullamco reprehenderit et aute quis commodo incididunt magna et occaecat sit velit. Non culpa aliqua nulla dolore et aliqua culpa fugiat sunt commodo."
+    },
+    {
+      "_id": "6090e0f08c5ed33cd210ffe7",
+      "nome": "Tamara",
+      "especie": "Jerry",
+      "ordem": "Karyn",
+      "familia": "Cobb",
+      "genero": "Betsy",
+      "localOrigem": "Mamie",
+      "cardumeMinimo": 15,
+      "posicaoAquario": "fundo",
+      "reproducao": "Anim laboris veniam anim proident labore tempor. Aliqua commodo dolor ut culpa aliqua tempor. Adipisicing aliqua in ipsum cillum nostrud ut id nisi eu duis commodo ea qui aliqua. Eiusmod anim enim est consequat incididunt cillum cupidatat sunt pariatur sit eiusmod enim qui officia. Sunt veniam nostrud elit do ex exercitation.",
+      "dimorfismoSexual": "Eiusmod cupidatat consectetur et incididunt ut sit dolore irure. Ex fugiat veniam duis deserunt. Et aute reprehenderit cupidatat exercitation aliquip occaecat. Eu officia irure ea dolore occaecat non. Adipisicing qui enim laboris enim eiusmod fugiat minim quis magna voluptate sunt ut. Laborum ipsum ea sunt ut ea labore enim incididunt exercitation do esse.",
+      "substratos": "areia",
+      "temperamentoEspecie": "carnivoro",
+      "temperamentoOutros": "territorialista",
+      "dieta": "Ut anim aute sint sit anim commodo enim. Deserunt velit ex officia consectetur veniam officia aliqua fugiat in labore irure. Proident non aliquip amet fugiat tempor reprehenderit sint do nulla non. Voluptate minim culpa fugiat occaecat amet incididunt cillum in.",
+      "racao": "granulados",
+      "quantidadeAlimentacao": 5,
+      "tamanhoMedio": 23,
+      "larguraMinima": 77,
+      "alturaMinima": 28,
+      "volumePrimeiro": 26,
+      "volumeAdicional": 12,
+      "temperatura": {
+        "min": 11,
+        "max": 21
+      },
+      "ph": {
+        "min": 7,
+        "max": 13
+      },
+      "dgh": {
+        "min": 15,
+        "max": 20
+      },
+      "salinidade": {
+        "min": 10,
+        "max": 40
+      },
+      "observacao": "Sunt ex ea excepteur aliqua eiusmod. Deserunt consequat est laborum proident duis aute proident ullamco. Exercitation dolore cillum ad non. Adipisicing non non labore non duis anim. Deserunt pariatur consectetur elit ullamco quis qui ea nostrud qui esse ullamco Lorem veniam ea."
+    },
+    {
+      "_id": "6090e0f0ae976540a71b2b00",
+      "nome": "Erma",
+      "especie": "Hammond",
+      "ordem": "Stone",
+      "familia": "Joyce",
+      "genero": "Marquez",
+      "localOrigem": "Hernandez",
+      "cardumeMinimo": 14,
+      "posicaoAquario": "fundo",
+      "reproducao": "Excepteur elit elit proident irure eu enim dolore dolore labore ad. Dolor commodo exercitation sit dolore. Quis consequat do est minim incididunt ipsum est proident ex aliqua labore. Voluptate est sunt dolor dolor quis elit voluptate cillum aliquip deserunt consequat. Sunt irure elit officia nisi velit consequat velit non aliqua sit cupidatat ad consequat pariatur. Id qui ullamco excepteur est ad dolor qui ex quis dolore eiusmod esse.",
+      "dimorfismoSexual": "Exercitation incididunt ea qui esse aliquip. Pariatur magna consequat officia anim fugiat exercitation consequat pariatur dolor eiusmod. Anim reprehenderit veniam voluptate ex labore exercitation cupidatat pariatur ullamco. Laborum sit ut veniam do laborum.",
+      "substratos": "pedras",
+      "temperamentoEspecie": "territorialista",
+      "temperamentoOutros": "carnivoro",
+      "dieta": "Irure cillum eu deserunt adipisicing aliqua dolor aute Lorem eiusmod commodo sunt. Sit cupidatat fugiat aliquip velit ad aute magna velit eu. Magna nisi id quis aliqua. Id cupidatat Lorem labore magna fugiat cillum voluptate exercitation est aute sit.",
+      "racao": "flocos",
+      "quantidadeAlimentacao": 3,
+      "tamanhoMedio": 8,
+      "larguraMinima": 184,
+      "alturaMinima": 29,
+      "volumePrimeiro": 22,
+      "volumeAdicional": 17,
+      "temperatura": {
+        "min": 15,
+        "max": 19
+      },
+      "ph": {
+        "min": 2,
+        "max": 12
+      },
+      "dgh": {
+        "min": 2,
+        "max": 18
+      },
+      "salinidade": {
+        "min": 24,
+        "max": 34
+      },
+      "observacao": "Cupidatat sit ex sit duis dolor qui. Veniam eiusmod esse occaecat eiusmod ad irure aliqua do incididunt proident aliquip eiusmod consectetur. Cupidatat velit officia nisi ea commodo. Ipsum minim amet pariatur enim fugiat consectetur sint excepteur ipsum."
+    },
+    {
+      "_id": "6090e0f08b1e1e04de794b38",
+      "nome": "Valentine",
+      "especie": "Joan",
+      "ordem": "Kara",
+      "familia": "Millicent",
+      "genero": "Mcguire",
+      "localOrigem": "English",
+      "cardumeMinimo": 5,
+      "posicaoAquario": "fundo",
+      "reproducao": "Cupidatat irure ea sit quis. Dolore minim duis elit adipisicing proident sunt eu enim qui in anim laboris labore. Aute consequat qui eu exercitation ea cillum cupidatat duis cillum voluptate irure esse eu labore. Incididunt amet anim veniam tempor laborum anim nostrud quis qui fugiat Lorem adipisicing ad. Consectetur reprehenderit duis consectetur do officia magna eu consequat laborum aliquip voluptate. Eiusmod reprehenderit qui duis laborum labore elit non amet esse voluptate ad in.",
+      "dimorfismoSexual": "Excepteur incididunt laboris aliquip dolor id consequat do ut enim. Magna commodo laboris reprehenderit nisi excepteur id eu laborum minim dolore qui laborum eu. Ea enim anim enim anim aliqua excepteur.",
+      "substratos": "pedras",
+      "temperamentoEspecie": "carnivoro",
+      "temperamentoOutros": "amigavel",
+      "dieta": "Anim mollit sunt ut exercitation excepteur deserunt. Duis anim cupidatat cillum excepteur irure in velit eu minim fugiat nulla consequat nulla non. Nulla cupidatat aute sunt officia laboris sunt sunt. Excepteur enim excepteur quis sint commodo duis tempor aliquip in.",
+      "racao": "paletes",
+      "quantidadeAlimentacao": 1,
+      "tamanhoMedio": 13,
+      "larguraMinima": 89,
+      "alturaMinima": 24,
+      "volumePrimeiro": 19,
+      "volumeAdicional": 8,
+      "temperatura": {
+        "min": 5,
+        "max": 25
+      },
+      "ph": {
+        "min": 6,
+        "max": 7
+      },
+      "dgh": {
+        "min": 4,
+        "max": 21
+      },
+      "salinidade": {
+        "min": 2,
+        "max": 44
+      },
+      "observacao": "Irure excepteur aliquip aliquip consectetur id ea velit in ad ex et. Cupidatat fugiat anim dolore proident. Consectetur aliqua adipisicing velit qui voluptate minim labore. Exercitation sit nisi sit reprehenderit esse do dolore nulla in non ex pariatur proident consectetur. Non ullamco dolor magna veniam sunt incididunt. Consequat excepteur veniam laborum sit."
+    },
+    {
+      "_id": "6090e0f06964f4f278b9ff94",
+      "nome": "Kathleen",
+      "especie": "Griffith",
+      "ordem": "Charles",
+      "familia": "Stephanie",
+      "genero": "Hensley",
+      "localOrigem": "Beverly",
+      "cardumeMinimo": 13,
+      "posicaoAquario": "fundo",
+      "reproducao": "Ut in id culpa et labore non amet laborum elit. Occaecat sit nisi nostrud eu incididunt id reprehenderit. Ullamco elit fugiat cupidatat aliqua labore ex.",
+      "dimorfismoSexual": "Tempor commodo nostrud reprehenderit laborum sunt nulla do culpa voluptate nisi. Cillum sit aliquip anim laboris excepteur est commodo incididunt ad sint cillum. Cillum proident quis nulla dolore excepteur ea voluptate laboris voluptate. Et tempor voluptate duis aliqua mollit Lorem sint enim.",
+      "substratos": "areia",
+      "temperamentoEspecie": "carnivoro",
+      "temperamentoOutros": "territorialista",
+      "dieta": "Non officia sit nulla consectetur duis ea velit aliquip laboris ullamco in quis culpa. Ipsum sint sint laborum amet sint qui dolor. Excepteur enim veniam non deserunt reprehenderit. Dolor amet sint est ut Lorem ea velit cillum adipisicing anim id nisi. Fugiat laboris aliquip reprehenderit sunt pariatur anim. Labore nisi cillum in non. Eiusmod aute irure mollit esse ex consectetur.",
+      "racao": "flocos",
+      "quantidadeAlimentacao": 4,
+      "tamanhoMedio": 2,
+      "larguraMinima": 451,
+      "alturaMinima": 26,
+      "volumePrimeiro": 11,
+      "volumeAdicional": 3,
+      "temperatura": {
+        "min": 8,
+        "max": 19
+      },
+      "ph": {
+        "min": 1,
+        "max": 14
+      },
+      "dgh": {
+        "min": 2,
+        "max": 21
+      },
+      "salinidade": {
+        "min": 4,
+        "max": 48
+      },
+      "observacao": "Ut exercitation cupidatat amet minim laboris et adipisicing deserunt sit ex sunt ea mollit. Reprehenderit nulla cillum occaecat cupidatat duis occaecat culpa laborum sit ipsum elit. Esse elit id culpa laboris ipsum sit fugiat mollit fugiat officia Lorem."
+    },
+    {
+      "_id": "6090e0f05466c35e565fd615",
+      "nome": "Penelope",
+      "especie": "Warren",
+      "ordem": "Rhodes",
+      "familia": "Leola",
+      "genero": "Hill",
+      "localOrigem": "Horne",
+      "cardumeMinimo": 18,
+      "posicaoAquario": "meio",
+      "reproducao": "Duis voluptate aliqua reprehenderit nulla do pariatur enim adipisicing ullamco. Do ullamco do dolor dolor officia officia aliquip et laboris proident proident irure nulla reprehenderit. Pariatur excepteur occaecat nulla qui ullamco Lorem magna do veniam fugiat cillum ex. Voluptate sunt mollit sunt non excepteur cupidatat eiusmod deserunt ex elit ut eu commodo. Est occaecat sunt aute eiusmod. Tempor laborum ad enim et Lorem anim. Quis veniam consectetur tempor anim eu nisi pariatur enim voluptate minim qui ea labore enim.",
+      "dimorfismoSexual": "Amet qui deserunt pariatur nulla ea sit nostrud sint mollit velit ut sint fugiat laboris. Excepteur elit labore laboris dolore aute culpa ad in labore minim irure. Tempor aliqua et labore nostrud eu id consequat id exercitation amet. Dolore fugiat quis velit fugiat eu id sit quis non laborum do cillum reprehenderit officia. Dolore officia et consequat cillum quis non. Nulla tempor esse dolore quis magna incididunt pariatur mollit ullamco elit minim. Lorem culpa minim amet exercitation laborum Lorem ex voluptate aute nulla.",
+      "substratos": "pedras",
+      "temperamentoEspecie": "territorialista",
+      "temperamentoOutros": "amigavel",
+      "dieta": "Labore in fugiat cillum cillum. Ut mollit irure laboris incididunt deserunt. Sint nostrud aliquip dolore aute aliqua esse. Duis non aliqua tempor minim ea velit fugiat. Fugiat voluptate velit velit id ut. Non laboris adipisicing commodo aliquip eu dolor elit labore laborum. Ea voluptate reprehenderit esse excepteur et ea mollit id magna.",
+      "racao": "paletes",
+      "quantidadeAlimentacao": 4,
+      "tamanhoMedio": 18,
+      "larguraMinima": 442,
+      "alturaMinima": 23,
+      "volumePrimeiro": 27,
+      "volumeAdicional": 10,
+      "temperatura": {
+        "min": 6,
+        "max": 28
+      },
+      "ph": {
+        "min": 0,
+        "max": 11
+      },
+      "dgh": {
+        "min": 14,
+        "max": 23
+      },
+      "salinidade": {
+        "min": 15,
+        "max": 31
+      },
+      "observacao": "Laboris magna eiusmod excepteur adipisicing qui velit velit. Non labore quis tempor aliquip magna sunt Lorem sunt labore exercitation eiusmod sunt. Proident anim aute exercitation sint ea consectetur laboris exercitation velit amet velit exercitation incididunt nostrud. Cupidatat velit et sint in velit commodo aliqua deserunt incididunt dolore qui Lorem. Duis Lorem non dolor labore ullamco ipsum irure veniam deserunt cillum incididunt. Nulla nostrud minim excepteur dolor consectetur sint. Magna officia incididunt laborum exercitation veniam labore elit laboris ex eiusmod officia qui eu."
+    },
+    {
+      "_id": "6090e0f0552db0b278a2d6c8",
+      "nome": "Latonya",
+      "especie": "Laverne",
+      "ordem": "Weaver",
+      "familia": "Cotton",
+      "genero": "Vilma",
+      "localOrigem": "Marta",
+      "cardumeMinimo": 18,
+      "posicaoAquario": "fundo",
+      "reproducao": "Deserunt ipsum ipsum nostrud eu in ipsum. Quis dolore eiusmod culpa pariatur. Aliquip ullamco commodo amet commodo aliquip et voluptate culpa cillum fugiat. Quis do aliqua ipsum est nostrud laboris nostrud deserunt velit consectetur ex nisi eu sunt. Lorem ex veniam reprehenderit eu consectetur enim ex proident deserunt. Et officia officia mollit consectetur minim nostrud.",
+      "dimorfismoSexual": "Nostrud proident labore mollit quis magna voluptate ipsum non. Anim do fugiat labore non veniam occaecat sit fugiat. Incididunt commodo anim ipsum ad aliqua. Aliquip Lorem nisi proident occaecat anim magna officia ullamco laboris et dolore. Incididunt irure cupidatat aliqua nisi pariatur. Incididunt esse qui proident irure anim et.",
+      "substratos": "areia",
+      "temperamentoEspecie": "carnivoro",
+      "temperamentoOutros": "amigavel",
+      "dieta": "Ipsum amet laborum aliquip fugiat nisi id. Officia ea laborum et consequat irure aliqua eu culpa tempor. Velit exercitation magna fugiat tempor culpa mollit fugiat occaecat. Aute minim nisi cupidatat deserunt velit. Labore ea Lorem culpa cupidatat reprehenderit dolore Lorem deserunt labore exercitation ea.",
+      "racao": "flocos",
+      "quantidadeAlimentacao": 2,
+      "tamanhoMedio": 25,
+      "larguraMinima": 440,
+      "alturaMinima": 20,
+      "volumePrimeiro": 19,
+      "volumeAdicional": 14,
+      "temperatura": {
+        "min": 12,
+        "max": 21
+      },
+      "ph": {
+        "min": 2,
+        "max": 8
+      },
+      "dgh": {
+        "min": 10,
+        "max": 17
+      },
+      "salinidade": {
+        "min": 17,
+        "max": 37
+      },
+      "observacao": "Officia consequat enim ullamco magna labore exercitation non. Amet nulla eiusmod sit eu cillum elit consectetur sit culpa in aliqua. Aliquip labore in non magna exercitation excepteur proident laboris ullamco cupidatat tempor. Ex ad sunt in dolor exercitation excepteur magna aliqua labore ullamco in. Voluptate ad dolore dolore esse."
+    },
+    {
+      "_id": "6090e0f021be1c942565b5f8",
+      "nome": "Salinas",
+      "especie": "Gail",
+      "ordem": "Lillian",
+      "familia": "Quinn",
+      "genero": "Cheryl",
+      "localOrigem": "Margarita",
+      "cardumeMinimo": 11,
+      "posicaoAquario": "meio",
+      "reproducao": "Labore in Lorem minim cillum nisi est Lorem. Voluptate eiusmod velit adipisicing quis commodo nisi ipsum labore. Reprehenderit consectetur nostrud excepteur ipsum reprehenderit sint occaecat tempor proident pariatur id eiusmod consectetur.",
+      "dimorfismoSexual": "Esse officia et sunt commodo Lorem non officia sunt dolore exercitation culpa. Pariatur non sunt ea occaecat elit irure officia eu cillum commodo qui. Nisi velit ut cupidatat tempor. Labore laborum exercitation tempor ipsum magna duis ut voluptate. Laboris officia enim mollit eu et ad deserunt magna. Velit nulla labore eu eiusmod sint cillum et duis ipsum occaecat dolore ad aute.",
+      "substratos": "areia",
+      "temperamentoEspecie": "carnivoro",
+      "temperamentoOutros": "carnivoro",
+      "dieta": "Proident ad ullamco anim ullamco adipisicing eu voluptate. In sunt anim enim dolor consequat magna cupidatat fugiat ipsum elit dolore quis. Ad voluptate consequat amet labore adipisicing. Cillum minim in anim quis cillum dolore amet ex dolor sit qui et ullamco. Anim occaecat consequat consequat nisi consequat dolor esse quis ullamco culpa nostrud.",
+      "racao": "granulados",
+      "quantidadeAlimentacao": 4,
+      "tamanhoMedio": 29,
+      "larguraMinima": 413,
+      "alturaMinima": 17,
+      "volumePrimeiro": 24,
+      "volumeAdicional": 11,
+      "temperatura": {
+        "min": 15,
+        "max": 25
+      },
+      "ph": {
+        "min": 3,
+        "max": 7
+      },
+      "dgh": {
+        "min": 12,
+        "max": 19
+      },
+      "salinidade": {
+        "min": 23,
+        "max": 29
+      },
+      "observacao": "Nisi culpa et dolore in ipsum incididunt incididunt id enim excepteur. Sint nulla adipisicing culpa sunt exercitation dolor labore id esse anim eiusmod minim. Ea dolor esse officia enim sit proident est esse commodo ipsum eiusmod nostrud eiusmod. Labore cillum eu enim ullamco nisi cillum culpa dolore minim."
+    },
+    {
+      "_id": "6090e0f04ff504f4c2ecf940",
+      "nome": "Lakisha",
+      "especie": "Mann",
+      "ordem": "Rhonda",
+      "familia": "Lane",
+      "genero": "Geneva",
+      "localOrigem": "Sharlene",
+      "cardumeMinimo": 10,
+      "posicaoAquario": "meio",
+      "reproducao": "Do sit amet tempor ullamco officia minim eu ut. Ea magna ea irure laborum minim cillum et Lorem ullamco id ut voluptate. Est mollit sit minim velit enim velit duis cupidatat anim. Nulla aute deserunt esse quis aliqua duis tempor sunt sint nulla nisi est Lorem aliqua. Et occaecat quis ex est veniam adipisicing ipsum ipsum tempor exercitation. Enim eiusmod ullamco enim irure amet ex laboris duis deserunt officia esse ipsum sunt. Aliquip id tempor consectetur ullamco excepteur adipisicing pariatur minim nulla consequat.",
+      "dimorfismoSexual": "Magna sint proident ullamco quis. Ex commodo occaecat quis elit cupidatat esse excepteur dolore occaecat. Occaecat cillum Lorem velit ad in quis ex voluptate. Eu cillum culpa anim dolore fugiat ipsum fugiat elit. Nisi exercitation culpa voluptate in et qui. Ipsum esse officia proident velit labore dolore tempor enim exercitation aliquip aliqua reprehenderit non elit.",
+      "substratos": "cascalho",
+      "temperamentoEspecie": "carnivoro",
+      "temperamentoOutros": "amigavel",
+      "dieta": "Sit nisi incididunt esse consequat quis. Nulla minim et mollit elit officia reprehenderit id reprehenderit consectetur ut. Consequat amet duis labore dolor est ipsum est eiusmod anim. Eu sit do tempor nulla labore adipisicing sunt nisi commodo. Aliqua voluptate fugiat aute et consectetur esse sint Lorem est nulla. Deserunt sunt et laboris reprehenderit dolore labore aliqua cupidatat. Enim elit proident cillum proident culpa eu adipisicing aute laboris minim.",
+      "racao": "paletes",
+      "quantidadeAlimentacao": 1,
+      "tamanhoMedio": 9,
+      "larguraMinima": 184,
+      "alturaMinima": 15,
+      "volumePrimeiro": 27,
+      "volumeAdicional": 5,
+      "temperatura": {
+        "min": 10,
+        "max": 24
+      },
+      "ph": {
+        "min": 5,
+        "max": 10
+      },
+      "dgh": {
+        "min": 13,
+        "max": 20
+      },
+      "salinidade": {
+        "min": 17,
+        "max": 39
+      },
+      "observacao": "Aliquip pariatur pariatur laborum nulla laboris deserunt exercitation proident. Ullamco occaecat eiusmod consectetur amet consequat laboris labore ex adipisicing est fugiat non ad. Id duis in esse ea mollit. Aliqua aliquip ipsum aute eu aute laborum."
+    },
+    {
+      "_id": "6090e0f0d0516ed7005fcddd",
+      "nome": "Leona",
+      "especie": "Mcfadden",
+      "ordem": "Olsen",
+      "familia": "Howard",
+      "genero": "Mcdaniel",
+      "localOrigem": "Petersen",
+      "cardumeMinimo": 12,
+      "posicaoAquario": "topo",
+      "reproducao": "Velit deserunt aliquip ad non laborum sint. Id sint exercitation commodo ex excepteur do et incididunt. Irure aliquip ea sint quis cupidatat ad irure do duis proident reprehenderit occaecat.",
+      "dimorfismoSexual": "Mollit labore ad culpa minim proident esse in elit et sunt eu ullamco. Consectetur non sint magna consequat consectetur aliqua. Nulla mollit consequat adipisicing elit id excepteur quis quis et consectetur cupidatat labore quis. Aute aliquip commodo voluptate voluptate elit exercitation esse consequat enim cillum laboris nulla ad. Aute aliqua veniam fugiat dolor anim et reprehenderit aute veniam incididunt nostrud in enim.",
+      "substratos": "pedras",
+      "temperamentoEspecie": "territorialista",
+      "temperamentoOutros": "territorialista",
+      "dieta": "Sunt cupidatat sint proident elit cupidatat ex laborum adipisicing. Fugiat laborum enim nostrud dolor. Minim eiusmod exercitation incididunt incididunt consequat nostrud exercitation quis. Ipsum culpa sint excepteur anim qui officia labore dolor ullamco commodo in eiusmod.",
+      "racao": "granulados",
+      "quantidadeAlimentacao": 1,
+      "tamanhoMedio": 19,
+      "larguraMinima": 265,
+      "alturaMinima": 18,
+      "volumePrimeiro": 26,
+      "volumeAdicional": 16,
+      "temperatura": {
+        "min": 15,
+        "max": 29
+      },
+      "ph": {
+        "min": 2,
+        "max": 14
+      },
+      "dgh": {
+        "min": 1,
+        "max": 17
+      },
+      "salinidade": {
+        "min": 15,
+        "max": 49
+      },
+      "observacao": "Dolore magna laboris voluptate consectetur officia dolore nulla aliquip ad id incididunt duis. Duis velit anim qui adipisicing proident duis ut irure et. Fugiat ex sint quis ipsum ut do. Irure Lorem velit exercitation nulla pariatur excepteur tempor minim nostrud culpa sit incididunt."
+    },
+    {
+      "_id": "6090e0f08ac3a95d289bc182",
+      "nome": "Schwartz",
+      "especie": "Sweeney",
+      "ordem": "Henry",
+      "familia": "Letitia",
+      "genero": "Nixon",
+      "localOrigem": "Steele",
+      "cardumeMinimo": 11,
+      "posicaoAquario": "topo",
+      "reproducao": "Ex reprehenderit sit qui nostrud consectetur pariatur quis labore est mollit ex ad dolore. Veniam velit et qui fugiat Lorem sunt deserunt nostrud qui commodo duis magna. Officia nulla occaecat id ut est deserunt occaecat.",
+      "dimorfismoSexual": "Officia et aliqua mollit dolor proident velit in ex. Commodo occaecat veniam esse culpa culpa. Ut laboris exercitation reprehenderit tempor sint aute aute nisi officia irure esse exercitation mollit. Pariatur adipisicing cupidatat adipisicing excepteur cillum enim duis voluptate.",
+      "substratos": "areia",
+      "temperamentoEspecie": "carnivoro",
+      "temperamentoOutros": "territorialista",
+      "dieta": "Cillum id exercitation est commodo aute occaecat voluptate. Amet cupidatat dolor proident Lorem elit sunt magna sunt occaecat labore in ea. Dolore nostrud eu enim ullamco nostrud elit duis aliqua est ea laboris anim in ea. Excepteur cupidatat occaecat sint non incididunt irure nostrud ad ex. Laboris pariatur adipisicing incididunt et in enim exercitation proident laboris cupidatat duis eu aliqua ea. Est deserunt dolore minim tempor quis laboris est. Lorem velit nostrud nostrud in id nostrud id eiusmod exercitation nostrud ea adipisicing amet commodo.",
+      "racao": "paletes",
+      "quantidadeAlimentacao": 1,
+      "tamanhoMedio": 23,
+      "larguraMinima": 117,
+      "alturaMinima": 16,
+      "volumePrimeiro": 21,
+      "volumeAdicional": 13,
+      "temperatura": {
+        "min": 12,
+        "max": 30
+      },
+      "ph": {
+        "min": 5,
+        "max": 13
+      },
+      "dgh": {
+        "min": 1,
+        "max": 22
+      },
+      "salinidade": {
+        "min": 11,
+        "max": 35
+      },
+      "observacao": "Minim irure deserunt officia incididunt esse duis irure voluptate velit fugiat consectetur. Ut ad laborum velit anim aliquip minim aliquip in minim esse esse quis magna deserunt. Dolor eiusmod excepteur consectetur nulla duis eiusmod tempor magna. Esse ullamco sit nostrud duis irure ut anim. Incididunt officia consequat id pariatur tempor laborum tempor duis aliqua."
+    }
+  ]
+}

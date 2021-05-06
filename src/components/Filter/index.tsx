@@ -8,6 +8,8 @@ import axios from 'axios';
 import styles from './styles.module.scss';
 import { FormControl, FormControlLabel, Input, makeStyles, MenuItem, Select, Slider, Switch, TextField, Typography, useTheme, withStyles } from '@material-ui/core';
 
+import { useFilter } from '../contexts/FilterContext';
+
 const useStyles = makeStyles((theme) => ({
   formControl: {
     margin: theme.spacing(1),
@@ -31,8 +33,7 @@ const TextFieldModify = withStyles({
   root: {
     '& .MuiInputBase-input': {
       color: '#FFF'
-    }
-    ,
+    },
     '& .MuiInput-underline:before': {
       borderBottomColor: '#fff',
     },
@@ -106,14 +107,26 @@ const posicoes = [
 ]
 
 export default function Filter() {
+
+  const {
+    toggleFriendlyOthers,
+    toggleFriendly,
+    changeFilterName,
+    changeFilterTemp,
+    changeFilterPh,
+    changeFilterDgh,
+    changeFilterSal,
+    changeFilterPositions
+  } = useFilter();
+
   const [nome, setNome] = useState("");
   const [temperatura, setTemperatura] = useState([0, 30]);
   const [ph, setPh] = useState([0, 14]);
   const [dgh, setDgh] = useState([0, 25]);
   const [salinidade, setSalinidade] = useState([0, 33]);
   const [posicoesAquario, setPosicoesAquario] = useState(posicoes);
-  const [amigavelEspecie, setAmigavelEspecie] = useState(true);
-  const [amigavelOutros, setAmigavelOutros] = useState(true);
+  const [amigavelEspecie, setAmigavelEspecie] = useState(false);
+  const [amigavelOutros, setAmigavelOutros] = useState(false);
 
   const ITEM_HEIGHT = 48;
   const ITEM_PADDING_TOP = 8;
@@ -140,10 +153,12 @@ export default function Filter() {
 
   const toggleCheckedAmigavelEspecie = () => {
     setAmigavelEspecie((prev) => !prev);
+    toggleFriendly(amigavelEspecie);
   };
 
   const toggleCheckedAmigavelOutros = () => {
     setAmigavelOutros((prev) => !prev);
+    toggleFriendlyOthers(amigavelOutros);
   };
 
   const handleSliderTempChange = (event, value) => {
@@ -170,7 +185,7 @@ export default function Filter() {
       <div className={styles.filterBody}>
         <div className={styles.component}>
           <span className={styles.componentsTitle}>
-            Nome {nome}
+            Nome
           </span>
           <TextFieldModify
             fullWidth
@@ -185,7 +200,7 @@ export default function Filter() {
           </span>
           <FormControlLabel
             control={<SwitchModify size="small" checked={amigavelEspecie} onChange={toggleCheckedAmigavelEspecie} />}
-            label="Amigável com a própria espécie"
+            label="Amigável com a sua espécie"
           />
           <FormControlLabel
             control={<SwitchModify size="small" checked={amigavelOutros} onChange={toggleCheckedAmigavelOutros} />}
@@ -226,6 +241,7 @@ export default function Filter() {
           <SliderModify
             value={temperatura}
             onChange={handleSliderTempChange}
+            onChangeCommitted={(e, val: number[]) => changeFilterTemp(val)}
             max={30}
             valueLabelDisplay="auto"
           />
@@ -237,6 +253,7 @@ export default function Filter() {
           <SliderModify
             value={ph}
             onChange={handleSliderPhChange}
+            onChangeCommitted={(e, val: number[]) => changeFilterPh(val)}
             max={14}
             valueLabelDisplay="auto"
           />
@@ -248,6 +265,7 @@ export default function Filter() {
           <SliderModify
             value={dgh}
             onChange={handleSliderDghChange}
+            onChangeCommitted={(e, val: number[]) => changeFilterDgh(val)}
             max={25}
             valueLabelDisplay="auto"
           />
@@ -259,6 +277,7 @@ export default function Filter() {
           <SliderModify
             value={salinidade}
             onChange={handleSliderSalChange}
+            onChangeCommitted={(e, val: number[]) => changeFilterSal(val)}
             max={33}
             valueLabelDisplay="auto"
           />

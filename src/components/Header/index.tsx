@@ -8,7 +8,9 @@ export default function Header() {
       <Link href={`/`}>
         <a><img width="40px" height="40px" src="/favicon.ico" alt="Atlantis" /><span>Atlantis</span></a>
       </Link>
-      <p>Aquarismo 4.0</p>
+      <Link href={`/listFishes`}>
+        <a><p>Listar Especies</p></a>
+      </Link>
       <span>Login</span>
     </header>
   );
