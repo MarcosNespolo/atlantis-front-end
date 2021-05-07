@@ -26,12 +26,17 @@ type FilterContextProviderProps = {
 }
 
 export function FilterContextProvider({ children }: FilterContextProviderProps) {
+  const posicoes = [
+    "Topo",
+    "Meio",
+    "Fundo"
+  ]
   const [filterName, setFilterName] = useState('');
   const [filterTemp, setFilterTemp] = useState([0, 30]);
   const [filterPh, setFilterPh] = useState([0, 14]);
   const [filterDgh, setFilterDgh] = useState([0, 25]);
   const [filterSal, setFilterSal] = useState([0, 33]);
-  const [filterPositions, setFilterPositions] = useState([]);
+  const [filterPositions, setFilterPositions] = useState(posicoes);
   const [filterIsFriendly, setFilterFriendly] = useState(false);
   const [filterIsFriendlyOthers, setFilterFriendlyOthers] = useState(false);
 

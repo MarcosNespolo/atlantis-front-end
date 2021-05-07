@@ -29,7 +29,7 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 
-const TextFieldModify = withStyles({
+const MyTextField = withStyles({
   root: {
     '& .MuiInputBase-input': {
       color: '#FFF'
@@ -46,7 +46,7 @@ const TextFieldModify = withStyles({
   },
 })(TextField);
 
-const SliderModify = withStyles({
+const MySlider = withStyles({
   root: {
     color: '#1B6EBB',
     height: 4,
@@ -76,7 +76,7 @@ const SliderModify = withStyles({
   },
 })(Slider);
 
-const SwitchModify = withStyles({
+const MySwitch = withStyles({
   switchBase: {
     padding: 2,
     color: '#FFF',
@@ -101,9 +101,9 @@ function getStyles(name, personName, theme) {
 }
 
 const posicoes = [
-  "Topo",
-  "Meio",
-  "Fundo"
+  "topo",
+  "meio",
+  "fundo"
 ]
 
 export default function Filter() {
@@ -145,10 +145,12 @@ export default function Filter() {
 
   const handleChangeNome = (event) => {
     setNome(event.target.value);
+    changeFilterName(event.target.value);
   };
 
   const handleChange = (event) => {
     setPosicoesAquario(event.target.value);
+    changeFilterPositions(event.target.value);
   };
 
   const toggleCheckedAmigavelEspecie = () => {
@@ -187,7 +189,7 @@ export default function Filter() {
           <span className={styles.componentsTitle}>
             Nome
           </span>
-          <TextFieldModify
+          <MyTextField
             fullWidth
             id="nome"
             value={nome}
@@ -199,11 +201,11 @@ export default function Filter() {
             Temperamento
           </span>
           <FormControlLabel
-            control={<SwitchModify size="small" checked={amigavelEspecie} onChange={toggleCheckedAmigavelEspecie} />}
+            control={<MySwitch size="small" checked={amigavelEspecie} onChange={toggleCheckedAmigavelEspecie} />}
             label="Amigável com a sua espécie"
           />
           <FormControlLabel
-            control={<SwitchModify size="small" checked={amigavelOutros} onChange={toggleCheckedAmigavelOutros} />}
+            control={<MySwitch size="small" checked={amigavelOutros} onChange={toggleCheckedAmigavelOutros} />}
             label="Amigável com outras espécies"
           />
         </div>
@@ -238,7 +240,7 @@ export default function Filter() {
           <span className={styles.componentsTitle}>
             Temperatura <span className={styles.componentsSubtitle}>{temperatura[0]}ºC - {temperatura[1]}ºC</span>
           </span>
-          <SliderModify
+          <MySlider
             value={temperatura}
             onChange={handleSliderTempChange}
             onChangeCommitted={(e, val: number[]) => changeFilterTemp(val)}
@@ -250,7 +252,7 @@ export default function Filter() {
           <span className={styles.componentsTitle}>
             pH <span className={styles.componentsSubtitle}>{ph[0]} - {ph[1]}</span>
           </span>
-          <SliderModify
+          <MySlider
             value={ph}
             onChange={handleSliderPhChange}
             onChangeCommitted={(e, val: number[]) => changeFilterPh(val)}
@@ -262,7 +264,7 @@ export default function Filter() {
           <span className={styles.componentsTitle}>
             dGH <span className={styles.componentsSubtitle}>{dgh[0]}ºN - {dgh[1]}ºN</span>
           </span>
-          <SliderModify
+          <MySlider
             value={dgh}
             onChange={handleSliderDghChange}
             onChangeCommitted={(e, val: number[]) => changeFilterDgh(val)}
@@ -274,7 +276,7 @@ export default function Filter() {
           <span className={styles.componentsTitle}>
             Salinidade <span className={styles.componentsSubtitle}>{salinidade[0]}ppt - {salinidade[1]}ppt</span>
           </span>
-          <SliderModify
+          <MySlider
             value={salinidade}
             onChange={handleSliderSalChange}
             onChangeCommitted={(e, val: number[]) => changeFilterSal(val)}

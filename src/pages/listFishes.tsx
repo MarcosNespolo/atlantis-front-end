@@ -39,6 +39,10 @@ type Fishes = {
   fishes: Fish[];
 }
 
+function compareString(s1: string, s2: string) {
+  return s1.normalize("NFD").toLowerCase().includes(s2.normalize("NFD").toLowerCase());
+}
+
 export default function ListFishes(fishes: Fishes) {
   const {
     filterName,
@@ -54,8 +58,6 @@ export default function ListFishes(fishes: Fishes) {
   return (
     <div className={styles.homepage}>
       <section className={styles.peixesContainer}>
-        Amigavel: {filterIsFriendly.toString()}<br />
-        Outros: {filterIsFriendlyOthers.toString()}
         <ul>
           {fishes.fishes.map((fish: Fish) => {
             if (
@@ -66,13 +68,19 @@ export default function ListFishes(fishes: Fishes) {
               fish.dgh.max <= filterDgh[1] &&
               fish.dgh.min >= filterDgh[0] &&
               fish.salinidade.max <= filterSal[1] &&
-              fish.salinidade.min >= filterSal[0]
+              fish.salinidade.min >= filterSal[0] &&
+              compareString(filterPositions.toString(), fish.posicaoAquario) &&
+              (
+                compareString(fish.nome, filterName) ||
+                compareString(fish.especie, filterName) ||
+                compareString(fish.genero, filterName)
+              )
             ) {
               if ((
-                filterIsFriendly && fish.temperamentoEspecie == 'amigavel' ||
+                filterIsFriendly && compareString(fish.temperamentoEspecie, 'amigavel') ||
                 !filterIsFriendly
               ) && (
-                  filterIsFriendlyOthers && fish.temperamentoOutros == 'amigavel' ||
+                  filterIsFriendlyOthers && compareString(fish.temperamentoOutros, 'amigavel') ||
                   !filterIsFriendlyOthers
                 )) {
                 return (
